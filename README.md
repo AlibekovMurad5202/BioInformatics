@@ -12,3 +12,8 @@
     * _Subpeptides Count Problem_
     * _Generating Theoretical Spectrum Problem_
     * _Counting Peptides with Given Mass Problem_
+
+3. __Brute Force versus Branch and Bound__
+    * _Cyclopeptide Sequencing Problem_
+    * _Cyclopeptide Scoring Problem_
+    * _Leaderboard Cyclopeptide Sequencing Problem_
