@@ -17,3 +17,7 @@
     * _Cyclopeptide Sequencing Problem_
     * _Cyclopeptide Scoring Problem_
     * _Leaderboard Cyclopeptide Sequencing Problem_
+
+4. __Motif Finding__
+    * Motif Enumeration Problem
+    * Median String Problem
