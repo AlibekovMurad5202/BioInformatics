@@ -38,3 +38,9 @@
     * _Global Alignment Problem_
     * _Local Alignment Problem_
     * _Edit Distance Problem_
+
+8. __How Do We Assemble Genomes? (Graph Algorithms)__
+    * _String Composition Problem_
+    * _String Spelled by a Genome Path Problem_
+    * _Overlap Graph Problem_
+    * _De Bruijn Graph from a String Problem_
