@@ -5,3 +5,10 @@
     * _Pattern Count Problem_
     * _Frequent Words Problem_
     * _Reverse Complement Problem_
+
+2. __Peptide Sequencing__
+    * _Protein Translation Problem_
+    * _Peptide Encoding Problem_
+    * _Subpeptides Count Problem_
+    * _Generating Theoretical Spectrum Problem_
+    * _Counting Peptides with Given Mass Problem_
