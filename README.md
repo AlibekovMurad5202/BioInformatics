@@ -1,6 +1,8 @@
 # BI-practice
 Репозиторий для сдачи практических заданий по курсу Введение в биоинформатику
 
+### _Содержание_
+
 1. __Introduction__
     * _Pattern Count Problem_
     * _Frequent Words Problem_
@@ -26,3 +28,8 @@
     * _Profile-most Probable k-mer Problem_
     * _Greedy Motif Search_
     * _Greedy Motif Search with pseudocounts_
+
+6. __How Do We Compare Biological Sequences? (Dynamic Programming)__
+    * _Change Problem_
+    * _Manhattan Tourist Problem_
+    * _Longest Common Subsequence Problem_
