@@ -33,3 +33,8 @@
     * _Change Problem_
     * _Manhattan Tourist Problem_
     * _Longest Common Subsequence Problem_
+
+7. __Alignments__
+    * _Global Alignment Problem_
+    * _Local Alignment Problem_
+    * _Edit Distance Problem_
