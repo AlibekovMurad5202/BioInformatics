@@ -21,3 +21,8 @@
 4. __Motif Finding__
     * _Motif Enumeration Problem_
     * _Median String Problem_
+
+5. __Motif Finding. Greedy__
+    * _Profile-most Probable k-mer Problem_
+    * _Greedy Motif Search_
+    * _Greedy Motif Search with pseudocounts_
