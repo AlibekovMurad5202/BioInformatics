@@ -44,3 +44,8 @@
     * _String Spelled by a Genome Path Problem_
     * _Overlap Graph Problem_
     * _De Bruijn Graph from a String Problem_
+
+9. __Genome Assembly__
+    * _Eulerian Cycle Problem_
+    * _Eulerian Path Problem_
+    * _String Reconstruction Problem_
