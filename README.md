@@ -51,5 +51,5 @@
     * _String Reconstruction Problem_
 	
 <!-- LINKS -->
-[1]: "https://github.com/AlibekovMurad5202/BioInformatics/blob/master/1. Introduction" (Introduction)
-[2]: "https://github.com/AlibekovMurad5202/BioInformatics/blob/master/2. Peptide Sequencing" (Peptide Sequencing)
+[1]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/1.%20Introduction (Introduction)
+[2]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/2.%20Peptide Sequencing (Peptide Sequencing)
