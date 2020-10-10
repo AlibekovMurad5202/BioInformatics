@@ -52,4 +52,4 @@
 	
 <!-- LINKS -->
 [1]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/1.%20Introduction (Introduction)
-[2]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/2.%20Peptide Sequencing (Peptide Sequencing)
+[2]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/2.%20Peptide%20Sequencing (Peptide Sequencing)
