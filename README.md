@@ -8,7 +8,7 @@
     * _Frequent Words Problem_
     * _Reverse Complement Problem_
 
-2. __Peptide Sequencing__
+2. [__Peptide Sequencing__][2]
     * _Protein Translation Problem_
     * _Peptide Encoding Problem_
     * _Subpeptides Count Problem_
@@ -51,4 +51,5 @@
     * _String Reconstruction Problem_
 	
 <!-- LINKS -->
-[1]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/1.Introduction
+[1]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/1. Introduction (Introduction)
+[2]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/2. Peptide Sequencing (Peptide Sequencing)
