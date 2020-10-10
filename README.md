@@ -3,7 +3,7 @@
 
 ### _Содержание_
 
-1. __Introduction__
+1. [__Introduction__][1]
     * _Pattern Count Problem_
     * _Frequent Words Problem_
     * _Reverse Complement Problem_
@@ -49,3 +49,6 @@
     * _Eulerian Cycle Problem_
     * _Eulerian Path Problem_
     * _String Reconstruction Problem_
+	
+<!-- LINKS -->
+[1]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/1.Introduction
