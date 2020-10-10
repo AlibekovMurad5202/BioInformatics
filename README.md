@@ -3,7 +3,7 @@
 
 ### _Содержание_
 
-1. __Introduction__[1]
+1. [__Introduction__][1]
     * _Pattern Count Problem_
     * _Frequent Words Problem_
     * _Reverse Complement Problem_
