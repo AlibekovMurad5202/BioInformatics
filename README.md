@@ -15,7 +15,7 @@
     * _Generating Theoretical Spectrum Problem_
     * _Counting Peptides with Given Mass Problem_
 
-3. __Brute Force versus Branch and Bound__
+3. [__Brute Force versus Branch and Bound__][3]
     * _Cyclopeptide Sequencing Problem_
     * _Cyclopeptide Scoring Problem_
     * _Leaderboard Cyclopeptide Sequencing Problem_
@@ -53,3 +53,4 @@
 <!-- LINKS -->
 [1]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/1.%20Introduction (Introduction)
 [2]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/2.%20Peptide%20Sequencing (Peptide Sequencing)
+[3]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/3.%20Brute%20Force%20versus%20Branch%20and%20Bound (Brute Force versus Branch and Bound)
