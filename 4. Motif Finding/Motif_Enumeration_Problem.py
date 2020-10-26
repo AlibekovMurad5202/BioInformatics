@@ -32,6 +32,6 @@ def mutated_patterns(pattern, k, d) -> set:
 
 
 if __name__ == "__main__":
-    k, d = map(int, input().split(' '))
+    k, d = input().split(' ')
     DNA = [input() for _ in range(4)]
     print(" ".join(list(motif_enumeration(DNA, int(k), int(d)))))
