@@ -20,7 +20,7 @@
     * _Cyclopeptide Scoring Problem_
     * _Leaderboard Cyclopeptide Sequencing Problem_
 
-4. __Motif Finding__
+4. [__Motif Finding__][4]
     * _Motif Enumeration Problem_
     * _Median String Problem_
 
@@ -54,3 +54,4 @@
 [1]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/1.%20Introduction (Introduction)
 [2]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/2.%20Peptide%20Sequencing (Peptide Sequencing)
 [3]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/3.%20Brute%20Force%20versus%20Branch%20and%20Bound (Brute Force versus Branch and Bound)
+[4]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/4.%20Motif%20Finding (Motif Finding)
