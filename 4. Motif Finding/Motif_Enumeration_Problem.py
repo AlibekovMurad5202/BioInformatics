@@ -1,4 +1,4 @@
-def motif_enumeration(DNA, k, d):
+def motif_enumeration(DNA, k, d) -> set:
     patterns = set()
     for dna in DNA:
         for i in range(len(dna) - k):
