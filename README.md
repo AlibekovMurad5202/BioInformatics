@@ -56,4 +56,4 @@
 [3]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/3.%20Brute%20Force%20versus%20Branch%20and%20Bound (Brute Force versus Branch and Bound)
 [4]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/4.%20Motif%20Finding (Motif Finding)
 [5]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/5.%20Motif%20Finding.%20Greedy (Motif Finding. Greedy)
-[6]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/6.%20How%20Do%20We%20Compare%20Biological%20Sequences?%20(Dynamic%20Programming) (How Do We Compare Biological Sequences? (Dynamic Programming))
+[6]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/6.%20How%20Do%20We%20Compare%20Biological%20Sequences%20%28Dynamic%20Programming%29 (How Do We Compare Biological Sequences? \(Dynamic Programming\))
