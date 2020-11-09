@@ -34,7 +34,7 @@
     * _Manhattan Tourist Problem_
     * _Longest Common Subsequence Problem_
 
-7. __Alignments__
+7. [__Alignments__][7]
     * _Global Alignment Problem_
     * _Local Alignment Problem_
     * _Edit Distance Problem_
@@ -57,3 +57,4 @@
 [4]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/4.%20Motif%20Finding (Motif Finding)
 [5]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/5.%20Motif%20Finding.%20Greedy (Motif Finding. Greedy)
 [6]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/6.%20How%20Do%20We%20Compare%20Biological%20Sequences%20%28Dynamic%20Programming%29 (How Do We Compare Biological Sequences? \(Dynamic Programming\))
+[7]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/7.%20Alignments (Alignments)
