@@ -24,7 +24,7 @@
     * _Motif Enumeration Problem_
     * _Median String Problem_
 
-5. __Motif Finding. Greedy__
+5. [__Motif Finding. Greedy__][5]
     * _Profile-most Probable k-mer Problem_
     * _Greedy Motif Search_
     * _Greedy Motif Search with pseudocounts_
@@ -55,3 +55,4 @@
 [2]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/2.%20Peptide%20Sequencing (Peptide Sequencing)
 [3]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/3.%20Brute%20Force%20versus%20Branch%20and%20Bound (Brute Force versus Branch and Bound)
 [4]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/4.%20Motif%20Finding (Motif Finding)
+[5]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/5.%20Motif%20Finding.%20Greedy (Motif Finding. Greedy)
