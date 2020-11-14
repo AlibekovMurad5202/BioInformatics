@@ -39,7 +39,7 @@
     * _Local Alignment Problem_
     * _Edit Distance Problem_
 
-8. __How Do We Assemble Genomes? (Graph Algorithms)__
+8. [__How Do We Assemble Genomes? (Graph Algorithms)__][8]
     * _String Composition Problem_
     * _String Spelled by a Genome Path Problem_
     * _Overlap Graph Problem_
@@ -58,3 +58,4 @@
 [5]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/5.%20Motif%20Finding.%20Greedy (Motif Finding. Greedy)
 [6]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/6.%20How%20Do%20We%20Compare%20Biological%20Sequences%20%28Dynamic%20Programming%29 (How Do We Compare Biological Sequences? \(Dynamic Programming\))
 [7]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/7.%20Alignments (Alignments)
+[8]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/6.%20How%20Do%20We%20Assemble%20Genomes%20%28Graph%20Algorithms%29 (How Do We Assemble Genomes? \(Graph Algorithms\))
