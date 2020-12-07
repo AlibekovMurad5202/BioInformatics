@@ -45,7 +45,7 @@
     * _Overlap Graph Problem_
     * _De Bruijn Graph from a String Problem_
 
-9. __Genome Assembly__
+9. [__Genome Assembly__][9]
     * _Eulerian Cycle Problem_
     * _Eulerian Path Problem_
     * _String Reconstruction Problem_
@@ -58,4 +58,5 @@
 [5]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/5.%20Motif%20Finding.%20Greedy (Motif Finding. Greedy)
 [6]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/6.%20How%20Do%20We%20Compare%20Biological%20Sequences%20%28Dynamic%20Programming%29 (How Do We Compare Biological Sequences? \(Dynamic Programming\))
 [7]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/7.%20Alignments (Alignments)
-[8]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/6.%20How%20Do%20We%20Assemble%20Genomes%20%28Graph%20Algorithms%29 (How Do We Assemble Genomes? \(Graph Algorithms\))
+[8]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/8.%20How%20Do%20We%20Assemble%20Genomes%20%28Graph%20Algorithms%29 (How Do We Assemble Genomes? \(Graph Algorithms\))
+[9]: https://github.com/AlibekovMurad5202/BioInformatics/blob/master/9.%20Genome%20Assembly (Genome Assembly)
